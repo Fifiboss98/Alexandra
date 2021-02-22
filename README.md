@@ -12,4 +12,4 @@ https://github.com/python-telegram-bot/python-telegram-bot/blob/master/examples/
 
 https://github.com/python-telegram-bot/python-telegram-bot/blob/master/examples/inlinekeyboard.py
 
-clone this repo 
+clone this repo https://github.com/Fifiboss98/Alexandra
