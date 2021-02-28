@@ -513,7 +513,7 @@ reply_markup=ReplyKeyboardMarkup(reply_keyboard, one_time_keyboard=True))
 def main() -> None:
     
     # Create the Updater and pass it your bot's token.
-    updater = Updater("1679951116:AAF4CLawByoGqZUekEc5Jv6sO97VEUfq2z0")
+    updater = Updater("TOKEN")
     dispatcher = updater.dispatcher
     
     def stop_and_restart():
