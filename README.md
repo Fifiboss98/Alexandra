@@ -15,10 +15,11 @@ https://github.com/python-telegram-bot/python-telegram-bot/blob/master/examples/
 clone this repo https://github.com/Fifiboss98/Alexandra
 
 
+## To get started
 
-Install The Library and other Modules
+- Install The Library and other Modules
 
     `python3 pip install -r requirements.txt`
 
-9. Create a ```.env file``` which will include:
+- Create a ```.env file``` which will include:
     * TOKEN="YOUR BOT TOKEN"
