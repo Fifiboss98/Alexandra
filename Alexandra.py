@@ -6,6 +6,7 @@
 import os
 import sys
 import logging
+from decouple import config 
 from threading import  Thread
 from telegram import ReplyKeyboardMarkup, Update
 from telegram.ext import (
