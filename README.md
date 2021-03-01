@@ -13,3 +13,13 @@ https://github.com/python-telegram-bot/python-telegram-bot/blob/master/examples/
 https://github.com/python-telegram-bot/python-telegram-bot/blob/master/examples/inlinekeyboard.py
 
 clone this repo https://github.com/Fifiboss98/Alexandra
+
+
+## To get started
+
+- Install The Library and other Modules
+
+    `python3 pip install -r requirements.txt`
+
+- Create a ```.env file``` which will include:
+    * TOKEN="YOUR BOT TOKEN"
