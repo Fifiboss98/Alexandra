@@ -1,2 +1,2 @@
-web: python alexandra.py
-worker: python alexandra.py
+web: python Alexandra.py
+worker: python Alexandra.py
